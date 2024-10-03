@@ -16,9 +16,4 @@ stating either that the field is required or the format is incorrect
 
 3. Add validation for matching passwords (in password and repeat password field)
 
-4. Create user subscription component using template drive forms with following fields:
-Name: Name - mandatory, text, min 2 characters, only letters allowed
-Email: mandatory, text, valid email format
-
-
-5. Add submit button to subscription form, button should be disabled when form is invalid. All invali fields should be marked red with appropriate error messages.
+4. Add submit button to registration form, button should be disabled when form is invalid.
